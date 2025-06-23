@@ -4,4 +4,6 @@
 
 > The chart I created shows that a majority of people **(over 600 respondents)** don’t think it’s rude at all to ask, while a smaller group said it’s somewhat or very rude. I found it interesting how accepting people are overall, even though switching seats can sometimes be pretty inconvenient.
 
+![Visualization](visualization.png)
+
 Source: [FiveThirtyEight – Flying Etiquette Survey](https://github.com/fivethirtyeight/data/tree/master/flying-etiquette-survey)
